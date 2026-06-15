@@ -4,7 +4,8 @@
   "description": "Implementação do tabnews.com.br pro curso.dev",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev:web": "next dev",
+    "lint": "next lint"
   },
   "author": "",
   "license": "MIT",
