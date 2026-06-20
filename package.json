@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev:web": "next dev",
-    "lint": "next lint"
+    "lint": "next lint",
+    "start": "next start"
   },
   "author": "",
   "license": "MIT",
